@@ -1,5 +1,5 @@
 # JavaLearning
-## This repository contains the exercises completed while learning JAVA in the [Udemy`s Java course](https://www.udemy.com/course/java-curso-completo/): 
+## This repository contains the exercises completed while learning JAVA in the [Udemy's Java course](https://www.udemy.com/course/java-curso-completo/): 
 - The first exercise is always the most relevant: ["Hello, World!"](Exercises/Main0.java) :earth_americas:	:smile:
 - [Here](Exercises/Main2.java) is an exercise using `Scanner` to store inputs. And this [other exercise](Exercises/Main5.java) demonstrates how `sc.nextLine()` command can be used;
 - I didn't know how fun it is to combine the principles of JAVA and mathematics:
