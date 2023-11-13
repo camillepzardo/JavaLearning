@@ -17,4 +17,4 @@
       - Calculate a game duration (depending on the game, can take many hours :hourglass_flowing_sand:);
       - Check the number interval the input number is part of, for example, if the input is 3 the number belongs to the range [0,25];
       - [This exercise](Exercises/Main7.java) checks the correspondent mathematical quadrant for the input number
-- Currently studying repetition structure :books:
+- Currently studying repetition structures :books:
