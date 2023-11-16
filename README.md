@@ -18,6 +18,6 @@
       - Check the number interval the input number is part of, for example, if the input is 3 the number belongs to the range [0,25];
       - [This exercise](Exercises/Main7.java) checks the correspondent mathematical quadrant for the input number
 - [This exercise](Exercises/Main9.java) explored the `DEBUG`, the code was already used in the geometric exercises however in `Eclipse IDE` I learned how to toggle breakpoints and the particularities of debugging a code.
-- Currently studying repetition structures :books: (in progress)
-  - First exercise using `While` structure, on this code, the user should input as many numbers as they want and at the end, the sum of these numbers is displayed when pressing zero.
-  
+- Currently studying repetition structures :books: 
+  - [First exercise](Exercises/Main10.java) using `While` structure, on this code, the user should input as many numbers as they want and at the end, the sum of these numbers is displayed when pressing zero.
+    - Learning further this repetition structure it's possible to understand how can be applied in real examples, [this code](Exercises/Main11.java) reads the password and check if it's valid or not
